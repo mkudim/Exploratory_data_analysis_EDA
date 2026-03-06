@@ -19,9 +19,8 @@
 |column name | description |
 |---         |---          |
 |order_id| Unique identifier for an order|
-|order_item_id| Item number in each order, acting as part of the primary key along with the order_id|
 |product_id| Unique identifier for a product|
-|seller_id| Unique identifier for the seller|
+|seller_id| Unique identifier for a seller|
 |price| Selling price of the product|
 |shipping_charges| Charges associated with the shipping of the product|
 ---
